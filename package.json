@@ -14,6 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2",
-    "node-zpl": "^1.0.5"
+    "node-zpl": "^1.0.5",
+    "puppeteer": "^22.6.3"
   }
 }
