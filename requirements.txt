@@ -1,3 +1,0 @@
-Flask==1.1.2
-python-zebra==0.0.2
-fpdf==1.7.2
