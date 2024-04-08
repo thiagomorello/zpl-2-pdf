@@ -1,0 +1,19 @@
+{
+  "name": "zpl-2-pdf",
+  "version": "1.0.0",
+  "description": "Transforma zpl em pdf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zpl",
+    "pdf"
+  ],
+  "author": "Thiago Roieski Maltezo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-zpl": "^1.0.5"
+  }
+}
